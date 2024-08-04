@@ -10,6 +10,3 @@ Technologies Used:
 Flutter: For building a cross-platform mobile application.
 Dart: For seamless and efficient programming.
 Whether you're an athlete, a student, or someone who values precise time management, the Stopwatch App is designed to meet your needs with accuracy and elegance.
-
-Download now and enhance your time-tracking experience!
-
